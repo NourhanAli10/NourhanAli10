@@ -1,31 +1,13 @@
-## Hi there 👋 ![](https://komarev.com/ghpvc/?username=ahmedosama-st&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=NourhanAli10-st&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 
 <p align ="center">
   <a href ="">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href ="">
-  <img src=""/>
-  </a>
 </p>
 
-<p  align="center" >
-  <a href="https://github.com/NourhanAli10">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
-  </a>
-</p>
 
-<!-- <a href="https://github.com/ahmedosama-st">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama-st" />
-</a> -->
 
-<a href="https://github.com/ahmedosama-st">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedosama&langs_count=4&custom_title=My%20week%20stats" /> 
-</a>
-
-<a href="https://github.com/ahmedosama-st">
-  <img align="center"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama-st" />
-</a>
 
 # Programming Languages
 
