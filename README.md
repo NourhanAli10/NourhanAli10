@@ -1,21 +1,16 @@
 ## Hi there 👋 ![](https://komarev.com/ghpvc/?username=ahmedosama-st&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 
-### You can reach me out anytime for any question about my courses or anything you'd like to discuss ^^
-
 <p align ="center">
-  <a href ="https://www.linkedin.com/in/ahmed-osama-st/">
+  <a href ="">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href ="https://medium.com/@sec-ahmedosama">
-  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
-  <a href ="https://dev.to/ahmedosama_st">
-  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <a href ="">
+  <img src=""/>
   </a>
 </p>
 
 <p  align="center" >
-  <a href="https://github.com/ahmedosama-st">
+  <a href="https://github.com/NourhanAli10">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedosama-st&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
   </a>
 </p>
@@ -36,7 +31,7 @@
 
 <div>
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-thebadge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
 # Used Frameworks.
