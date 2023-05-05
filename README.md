@@ -44,23 +44,15 @@
 # Used Frameworks.
 
 <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
-</div>
+     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
+ </div>
 
 # Databases
 
 <div>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
+ </div>
 
 # Other technologies
 
