@@ -35,10 +35,8 @@
 # Programming Languages
 
 <div>
-    <img src="https://img.shields.io/badge/rust-E43716.svg?&style=for-the-badge&logo=rust&logoColor=white%22"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-thebadge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
 # Used Frameworks.
@@ -59,12 +57,4 @@
 <div>
     <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Rxjs-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux"/>
-    <img src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
-</div>
+   </div>
