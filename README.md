@@ -34,4 +34,6 @@
 <div>
     <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Functional%20Programming-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Html-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-CSS-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
    </div>
