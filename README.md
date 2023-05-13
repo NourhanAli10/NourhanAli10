@@ -34,7 +34,7 @@
 
 ## 🛠 Skills
 
-# Client
+# Web Technologies
 <div>
    <img src="https://img.shields.io/badge/-Html-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
    <img src="https://img.shields.io/badge/-CSS-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
